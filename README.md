@@ -3,11 +3,11 @@
 Interaktive Streamlit-Dashboards für die Lehre an der Technischen Hochschule Ingolstadt.
 Jeder Unterordner ist eine eigenständige App mit eigener `requirements.txt`.
 
-| Ordner | Inhalt |
-|---|---|
-| [`betz/`](betz/) | Betz-Gesetz (Energieentnahme aus dem Wind) und Auftriebsläufer |
-| [`gebaeude/`](gebaeude/) | Gebäudeenergietechnik: Jahresbilanz, typische Wochen, Auslegung |
-| [`gebaeude-erweitert/`](gebaeude-erweitert/) | Gebäudeenergietechnik erweitert: Kosten, Studie JAZ, flexible Strompreise, optimierte Auslegung |
+| Dashboard | Online | Ordner |
+|---|---|---|
+| Betz-Gesetz (Energieentnahme aus dem Wind) und Auftriebsläufer | https://betz-gesetz.streamlit.app | [`betz/`](betz/) |
+| Gebäudeenergietechnik: Jahresbilanz, typische Wochen, Auslegung | https://gebaeudeenergie.streamlit.app | [`gebaeude/`](gebaeude/) |
+| Gebäudeenergietechnik plus: Kosten, Studie JAZ, flexible Strompreise, optimierte Auslegung | https://gebaeudeenergie-plus.streamlit.app | [`gebaeude-erweitert/`](gebaeude-erweitert/) |
 
 ## Lokal starten
 
