@@ -7,7 +7,7 @@ Jeder Unterordner ist eine eigenständige App mit eigener `requirements.txt`.
 |---|---|---|
 | Betz-Gesetz (Energieentnahme aus dem Wind) und Auftriebsläufer | https://betz-gesetz.streamlit.app | [`betz/`](betz/) |
 | Gebäudeenergietechnik: Jahresbilanz, typische Wochen, Auslegung | https://gebaeudeenergie.streamlit.app | [`gebaeude/`](gebaeude/) |
-| Photovoltaik: pn-Übergang, Photon → Strom, Kennlinie & MPP-Tracker, Auslegung mit/ohne Speicher, Energieflüsse | *(noch nicht online)* | [`pv/`](pv/) |
+| Photovoltaik: pn-Übergang, Photon → Strom, Kennlinie & MPP-Tracker, Auslegung mit/ohne Speicher, Energieflüsse | https://pv-verstehen.streamlit.app | [`pv/`](pv/) |
 | Gebäudeenergietechnik plus: Kosten, Studie JAZ, flexible Strompreise, optimierte Auslegung | https://gebaeudeenergie-plus.streamlit.app | [`gebaeude-erweitert/`](gebaeude-erweitert/) |
 
 ## Lokal starten
